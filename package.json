@@ -1,0 +1,18 @@
+{
+  "name": "lsock",
+  "version": "0.0.0",
+  "description": "socket server to work with laravel",
+  
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+
+  "dependencies": {
+    "zmq": "2.5.0",
+    "ws": "0.4.30"
+  },
+
+  "author": "k",
+  "license": "MIT"
+
+}
